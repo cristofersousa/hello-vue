@@ -1,0 +1,22 @@
+{
+  "name": "vue-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristofersousa/hello-vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "cristofersousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristofersousa/hello-vue/issues"
+  },
+  "homepage": "https://github.com/cristofersousa/hello-vue#readme"
+}
